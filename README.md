@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/chinthanshetty07/gradebook-grid-concept/actions/workflows/ci.yml/badge.svg)](https://github.com/chinthanshetty07/gradebook-grid-concept/actions/workflows/ci.yml)
 
+**Live demo: https://chinthanshetty07.github.io/gradebook-grid-concept/** (deployed by GitHub Actions on every push to main)
+
 A keyboard-first, virtualized gradebook built with React and Redux Toolkit. It is a small, working answer to one
 question: **how do you keep a spreadsheet-sized gradebook instant to edit?**
 
